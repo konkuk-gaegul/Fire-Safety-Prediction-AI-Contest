@@ -1,4 +1,4 @@
-# 98팀 중 10위 
+# 98팀 중 10위 우수상 수
 
 # Fire-Safety-Prediction-AI-Contest
 AI contest hosted by Gangwon Fire Department
